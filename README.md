@@ -4,9 +4,9 @@
 **开源免费博客&wiki**<br />
 | 名称 | 链接 | 介绍 | 最近更新 |
 | --- | --- | --- | --- |
-| halo博客 | https://halo.run/ | 强大易用的开源建站工具 |
-| docusaurus wiki | https://docusaurus.io/ | Facebook 专门为开源项目开发者提供的一款易于维护的静态网站创建工具，使用 Markdown 即可更新网站。 |
-| requarks wiki | https://github.com/requarks/wiki | Wiki.js |基于Node.js构建的现代且强大的wiki应用程序 |
+| halo博客 | https://halo.run/ | 强大易用的开源建站工具 |   |
+| docusaurus wiki | https://docusaurus.io/ | Facebook 专门为开源项目开发者提供的一款易于维护的静态网站创建工具，使用 Markdown 即可更新网站。 |   |
+| requarks wiki | https://github.com/requarks/wiki | Wiki.js是基于Node.js构建的现代且强大的wiki应用程序 |   |
 
 **开源免费服务器面板**<br />
 | 名称 | 链接 | 介绍 | 最近更新 |
