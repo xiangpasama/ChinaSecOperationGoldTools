@@ -60,9 +60,20 @@
 | opencanary_web蜜罐 | https://github.com/p1r06u3/opencanary_web | 蜜罐网络管理平台 |  2021/02 |
 | Ehoney蜜罐 | https://github.com/seccome/Ehoney | 安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。 | 2022/11  |
 | Loki蜜罐 | https://github.com/TheKingOfDuck/Loki | 一个轻量级Web蜜罐 |  2022/01 |
-| DecoyMini蜜罐 | https://github.com/decoymini/DecoyMini | 一款高可扩展、安全、免费的企业级蜜罐系统 |   |
+| DecoyMini蜜罐 | https://github.com/decoymini/DecoyMini | 一款高可扩展、安全、免费的企业级蜜罐系统 |  2023/09 |
+| tpotce蜜罐 | https://github.com/telekom-security/tpotce | T-Pot - The All In One Honeypot Platform | 2023/08  |
+| cowrie蜜罐 | https://github.com/cowrie/cowrie | Cowrie SSH/Telnet蜜罐 | 2023/09  |
 
-钓鱼演练、蜜罐、挂马暗链、github监测、邮箱收集、
+**钓鱼演练**<br />
+| 名称 | 链接 | 介绍 | 最近更新 |
+| --- | --- | --- | --- |
+|  | https://github.com/xiecat/goblin |  |   |
+|  | https://github.com/rsmusllp/king-phisher/ |  |   |
+|  | https://github.com/gophish/gophish |  |   |
+|  | https://github.com/SecurityPaper/mail_fishing |  |   |
+|  |  |  |   |
+
+挂马暗链、github监测、邮箱收集、
 
 https://github.com/gitleaks/gitleaks
 https://github.com/awslabs/git-secrets
