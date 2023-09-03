@@ -1,5 +1,18 @@
 # 甲方安全运营项目
-[开源仅录入2020年以来保持更新且star不低于100的项目]
+[开源仅录入2020年以来保持更新且star不低于100的项目,优先国内]
+
+**开源免费博客&wiki**<br />
+| 名称 | 链接 |
+| --- | --- |
+| halo博客 | https://halo.run/ | 强大易用的开源建站工具 |
+| docusaurus wiki | https://docusaurus.io/ | Facebook 专门为开源项目开发者提供的一款易于维护的静态网站创建工具，使用 Markdown 即可更新网站。 |
+| requarks wiki | https://github.com/requarks/wiki | Wiki.js |基于Node.js构建的现代且强大的wiki应用程序 |
+
+**开源免费服务器面板**<br />
+| 名称 | 链接 | 介绍 | 最近更新 |
+| --- | --- | --- | --- |
+| 1panel服务器运维管理面板 | https://1panel.cn/ | 1Panel 是新一代的 Linux 服务器运维管理面板 |   |
+| 宝塔面板 | https://www.bt.cn/new/index.html | 安全高效的服务器运维面板 |   |
 
 **杀毒免费&试用企业版**<br />
 | 名称 | 链接 |
@@ -42,6 +55,9 @@
 
 
 钓鱼演练、蜜罐、挂马暗链、github监测、邮箱收集、
+
+https://github.com/gitleaks/gitleaks
+https://github.com/awslabs/git-secrets
 
 
 | 护卫神·安全审计系统 | https://www.hws.com/soft/audit/ | Windows服务器一键安全加固软件，绿色、免费安全审计、补丁更新、安全加固（系统权限加固、禁用危险服务、卸载危险组件、PHP加固、功能角色加固、数据盘加固） |   |
