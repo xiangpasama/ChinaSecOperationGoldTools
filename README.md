@@ -1,14 +1,14 @@
 # 甲方安全运营项目
 [开源仅录入2020年以来保持更新且star不低于100的项目，优先国内]
 
-**开源免费博客&wiki**<br />
+**开源博客&wiki**<br />
 | 名称 | 链接 | 介绍 | 最近更新 |
 | --- | --- | --- | --- |
 | halo博客 | https://halo.run/ | 强大易用的开源建站工具 |   |
 | docusaurus | https://docusaurus.io/ | Facebook 专门为开源项目开发者提供的一款易于维护的静态网站创建工具，使用 Markdown 即可更新网站。 |   |
 | Wiki.js | https://github.com/requarks/wiki | Wiki.js是基于Node.js构建的现代且强大的wiki应用程序 | 2023/09  |
 
-**开源免费服务器面板**<br />
+**开源&免费服务器面板**<br />
 | 名称 | 链接 | 介绍 | 最近更新 |
 | --- | --- | --- | --- |
 | 1panel服务器运维管理面板 | https://1panel.cn/ | 1Panel 是新一代的 Linux 服务器运维管理面板 |   |
@@ -42,7 +42,6 @@
 | 南墙WEB应用防火墙 | https://waf.uusec.com/ | 有安科技推出的一款全方位网站防护产品。 |   |
 | phpstudy-linux WAF | https://www.xp.cn/phpstudy-linux/waf-cc.html | web网站防火墙。 |   |
 
-
 **开源&免费&低价HIDS**<br />
 | 名称 | 链接 | 介绍 | 最近更新 |
 | --- | --- | --- | --- |
@@ -52,15 +51,17 @@
 | Elkeid HIDS | https://github.com/bytedance/Elkeid | Elkeid是一个开源解决方案，可以满足主机、容器和K8等各种工作负载的安全需求，以及无服务器。它源自字节跳动的内部最佳实践。 |   |
 | veinmind-tools容器安全 | https://github.com/chaitin/veinmind-tools | veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集。 |   |
 | 云安全平台检测 | https://github.com/chaitin/HummerRisk | HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测。 |   |
+| cloudexplorer | https://www.fit2cloud.com/cloudexplorer-lite/index.html | 开源的轻量级云管平台 |   |
 
 **企业蜜罐**<br />
 | 名称 | 链接 | 介绍 | 最近更新 |
 | --- | --- | --- | --- |
 | hfish蜜罐 | https://hfish.net/ | 安全、可靠、简单、免费的企业级蜜罐 |   |
-|  |  |  |   |
-|  |  |  |   |
-|  |  |  |   |
-|  |  |  |   |
+| opencanary_web蜜罐 | https://github.com/p1r06u3/opencanary_web | 蜜罐网络管理平台 |  2021/02 |
+| Ehoney蜜罐 | https://github.com/seccome/Ehoney | 安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。 | 2022/11  |
+| Loki蜜罐 | https://github.com/TheKingOfDuck/Loki | 一个轻量级Web蜜罐 |  2022/01 |
+| DecoyMini蜜罐 | https://github.com/decoymini/DecoyMini | 一款高可扩展、安全、免费的企业级蜜罐系统 |   |
+
 钓鱼演练、蜜罐、挂马暗链、github监测、邮箱收集、
 
 https://github.com/gitleaks/gitleaks
