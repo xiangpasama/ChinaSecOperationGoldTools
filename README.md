@@ -53,7 +53,14 @@
 | veinmind-tools容器安全 | https://github.com/chaitin/veinmind-tools | veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集。 |   |
 | 云安全平台检测 | https://github.com/chaitin/HummerRisk | HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测。 |   |
 
-
+**企业蜜罐**<br />
+| 名称 | 链接 | 介绍 | 最近更新 |
+| --- | --- | --- | --- |
+| hfish蜜罐 | https://hfish.net/ | 安全、可靠、简单、免费的企业级蜜罐 |   |
+|  |  |  |   |
+|  |  |  |   |
+|  |  |  |   |
+|  |  |  |   |
 钓鱼演练、蜜罐、挂马暗链、github监测、邮箱收集、
 
 https://github.com/gitleaks/gitleaks
