@@ -34,13 +34,18 @@
 | 名称 | 链接 | 介绍 | 最近更新 |
 | --- | --- | --- | --- |
 | 服务器安全狗 | http://free.safedog.cn/server_safedog.html |  服务器安全狗服务器防黑专家，用户高度认可。 |   |
-| 全国中小网站安全防护平台HIDS | https://waf.islab.cn/ | 主机防护-免费版 |   |
+| 全国中小网站安全防护平台HIDS | https://waf.islab.cn/ | 主机防护-免费版。 |   |
+| 驭龙HIDS | https://github.com/ysrc/yulong-hids-archived | 一款实验性质的主机入侵检测系统。 |   |
+| Elkeid HIDS | https://github.com/bytedance/Elkeid | Elkeid是一个开源解决方案，可以满足主机、容器和K8等各种工作负载的安全需求，以及无服务器。它源自字节跳动的内部最佳实践。 |   |
+| veinmind-tools容器安全 | https://github.com/chaitin/veinmind-tools | veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集。 |   |
+| 云安全平台检测 | https://github.com/chaitin/HummerRisk | HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测。 |   |
 
 
+钓鱼演练、蜜罐、挂马暗链、github监测、邮箱收集、
 
 
-
-容器安全、钓鱼演练、蜜罐、挂马暗链、github监测、邮箱收集、
+| 护卫神·安全审计系统 | https://www.hws.com/soft/audit/ | Windows服务器一键安全加固软件，绿色、免费安全审计、补丁更新、安全加固（系统权限加固、禁用危险服务、卸载危险组件、PHP加固、功能角色加固、数据盘加固） |   |
+| lynis | https://github.com/CISOfy/lynis | Lynis -适用于Linux、macOS和基于UNIX的系统的安全审计工具。协助进行合规性测试（HIPAA/ISO27001/PCI DSS）和系统强化。无代理，安装可选。 |   |
 
 **模板**<br />
 | 名称 | 链接 | 介绍 | 最近更新 |
