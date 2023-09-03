@@ -2,7 +2,7 @@
 [开源仅录入2020年以来保持更新且star不低于100的项目,优先国内]
 
 **开源免费博客&wiki**<br />
-| 名称 | 链接 |
+| 名称 | 链接 | 介绍 | 最近更新 |
 | --- | --- |
 | halo博客 | https://halo.run/ | 强大易用的开源建站工具 |
 | docusaurus wiki | https://docusaurus.io/ | Facebook 专门为开源项目开发者提供的一款易于维护的静态网站创建工具，使用 Markdown 即可更新网站。 |
