@@ -27,7 +27,6 @@
 | 网站安全狗 | http://free.safedog.cn/website_safedog.html | 网站安全狗百万网站安全首选，千万攻击实时拦截。 |   |
 | GOODWAF | http://www.goodwaf.cn/ | Web应用防火墙（云WAF）结合人工智能机器学习技术、通过灵活的部署方式，构建积极防御安全模型。 |   |
 | 长亭WAF社区版 | https://waf-ce.chaitin.cn/ | 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 |   |
-| AIHTTPS WEB应用防火墙 | http://www.hihttps.com/hihttps | hihttps是一款完整源码的高性能web应用防火墙。 | 2023/03  |
 | Shieldon WAF | https://github.com/terrylinooo/shieldon | Shieldon是一个PHP的Web应用程序防火墙（WAF），具有一个漂亮而有用的控制面板，可以帮助您轻松管理防火墙规则和安全设置。 |  2023/06 |
 | 南墙WEB应用防火墙 | https://waf.uusec.com/ | 有安科技推出的一款全方位网站防护产品。 |   |
 
