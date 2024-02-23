@@ -13,12 +13,12 @@
 **一体化办公安全平台**
 | 项目名称 | 项目地址 | 项目介绍 |
 | --- | --- | --- |
-| 天机  | https://tianji.uusec.com/  | 广东有安科技提供  |
+| 天机  | https://tianji.uusec.com/  | 武汉有安科技提供  |
 
 **零信任网格网络平台**
 | 项目名称 | 项目地址 | 项目介绍 |
 | --- | --- | --- |
-| 法海| https://fahi.uusec.com/ | 广东有安科技提供  |
+| 法海| https://fahi.uusec.com/ | 武汉有安科技提供  |
 
 **云部署Web应用防火墙**
 | 项目名称 | 项目地址 | 项目介绍 |
@@ -30,8 +30,8 @@
 | 项目名称 | 项目地址 | 项目介绍 |
 | --- | --- | --- |
 | 雷池SafeLine  | https://waf-ce.chaitin.cn/  | 北京长亭科技提供  |
-| 南墙  | https://waf.uusec.com/  | 广东有安科技提供  |
-| 锦衣盾  | https://www.jxwaf.com/  | Jx-sec大牛提供  |
+| 南墙  | https://waf.uusec.com/  | 武汉有安科技提供  |
+| 锦衣盾  | https://www.jxwaf.com/  | JX-sec大牛提供  |
 | 网站安全狗  | https://www.safedog.cn/website_safedog.html  | 厦门安全狗提供  |
 
 **HIDS主机入侵检测**
@@ -56,7 +56,7 @@
 | 项目名称 | 项目地址 | 项目介绍 |
 | --- | --- | --- |
 | Ehoney  | https://github.com/seccome/Ehoney  | Seccome大牛提供  |
-| Hfish  | https://hfish.net/  | 微步在线提供  |
+| Hfish  | https://hfish.net/  | 北京微步在线科技提供  |
 | DecoyMini  | https://github.com/decoymini/DecoyMini  | DecoyMini大牛提供  |
 
 **堡垒机平台**
@@ -67,7 +67,7 @@
 **DNS威胁情报检测平台**
 | 项目名称 | 项目地址 | 项目介绍 |
 | --- | --- | --- |
-| OneDNS  | https://www.onedns.net/publicWelfareVersion  | 北京微步在线提供  |
+| OneDNS  | https://www.onedns.net/publicWelfareVersion  | 北京微步在线科技提供  |
 
 **网络流量检测平台**
 | 项目名称 | 项目地址 | 项目介绍 |
