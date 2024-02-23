@@ -1,80 +1,90 @@
-# 中小企业甲方安全运营实践
+# Gold 2024中国网络安全运营金牌开源/免费项目全景图【1.2版】
 
-[开源项目仅录入中国大陆作者2020年以来保持更新且star不低于100的]
+**开源/免费项目优先收录中国技术人员的作品，优先收录持续更新的优秀作品，希望企业与个人能持续开发维护更多开源/免费的网络安全项目。**
 
-**免费博客**<br />
-| 名称 | 链接 | 介绍 |
+**每月更新1个版本，面向中国中小企业和安全预算有限的大型企业，专注服务于中国信息安全从业者，欢迎持续关注。**
+
+**SAAS部署杀毒【支持Windows和Mac】**
+| 项目名称 | 项目地址 | 项目介绍 |
 | --- | --- | --- |
-| halo博客 | https://halo.run/ | 强大易用的开源建站工具 |
+| 360企业安全云免费版 | https://saas.360.cn/ | 360数字安全提供  |
+| 腾讯电脑管家小团队版 | https://team.qq.com/site/index.html | 腾讯安全提供  |
 
-**免费服务器面板**<br />
-| 名称 | 链接 | 介绍 | 最近更新 |
-| --- | --- | --- | --- |
-| 1panel服务器管理面板 | https://1panel.cn/ | 1Panel 是新一代的 Linux 服务器运维管理面板 |   |
-| 宝塔服务器管理面板 | https://www.bt.cn/new/index.html | 安全高效的服务器运维面板 |   |
+**一体化办公安全平台**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| 天机  | https://tianji.uusec.com/  | 广东有安科技提供  |
 
-**杀毒免费&试用企业版**<br />
-| 名称 | 链接 |
-| --- | --- |
-| 360企业安全云 | https://saas.360.cn/ |  |
-| 腾讯电脑管家小团队版 | https://team.qq.com/site/index.html |  |
+**零信任网格网络平台**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| 法海| https://fahi.uusec.com/ | 广东有安科技提供  |
 
-**开源&免费&低价web应用防火墙**<br />
-| 名称 | 链接 | 介绍 | 最近更新 |
-| --- | --- | --- | --- |
-| JXWAF锦衣盾 | https://github.com/jx-sec/jxwaf | JXWAF(锦衣盾)是一款开源web应用防火墙。 | 2023/08  |
-| 奇安信网站卫士 | https://wangzhan.qianxin.com/ | 网站卫士是北京奇安信科技有限公司推出的免费网站安全防护产品，是国内用户量最大的网站安全产品之一。 |   |
-| 网站安全狗 | http://free.safedog.cn/website_safedog.html | 网站安全狗百万网站安全首选，千万攻击实时拦截。 |   |
-| GOODWAF | http://www.goodwaf.cn/ | Web应用防火墙（云WAF）结合人工智能机器学习技术、通过灵活的部署方式，构建积极防御安全模型。 |   |
-| 长亭WAF社区版 | https://waf-ce.chaitin.cn/ | 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 |   |
-| Shieldon WAF | https://github.com/terrylinooo/shieldon | Shieldon是一个PHP的Web应用程序防火墙（WAF），具有一个漂亮而有用的控制面板，可以帮助您轻松管理防火墙规则和安全设置。 |  2023/06 |
-| 南墙WEB应用防火墙 | https://waf.uusec.com/ | 有安科技推出的一款全方位网站防护产品。 |   |
+**云部署Web应用防火墙**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| GOODWAF  | https://www.goodwaf.cn/  | 杭州金诚信息安全科技提供  |
+| 奇安信网站卫士  | https://wangzhan.qianxin.com/  | 奇安信提供  |
 
-**开源&免费&低价HIDS**<br />
-| 名称 | 链接 | 介绍 | 最近更新 |
-| --- | --- | --- | --- |
-| 服务器安全狗 | http://free.safedog.cn/server_safedog.html |  服务器安全狗服务器防黑专家，用户高度认可。 |   |
-| 全国中小网站安全防护平台HIDS | https://waf.islab.cn/ | 主机防护-免费版。 |   |
-| 驭龙HIDS | https://github.com/ysrc/yulong-hids-archived | 一款实验性质的主机入侵检测系统。 |   |
-| Elkeid HIDS | https://github.com/bytedance/Elkeid | Elkeid是一个开源解决方案，可以满足主机、容器和K8等各种工作负载的安全需求，以及无服务器。它源自字节跳动的内部最佳实践。 |   |
-| veinmind-tools容器安全 | https://github.com/chaitin/veinmind-tools | veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集。 |   |
-| 云安全平台检测 | https://github.com/chaitin/HummerRisk | HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测。 |   |
-| cloudexplorer | https://www.fit2cloud.com/cloudexplorer-lite/index.html | 开源的轻量级云管平台 |   |
+**软件部署Web应用防火墙**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| 雷池SafeLine  | https://waf-ce.chaitin.cn/  | 北京长亭科技提供  |
+| 南墙  | https://waf.uusec.com/  | 广东有安科技提供  |
+| 锦衣盾  | https://www.jxwaf.com/  | Jx-sec大牛提供  |
+| 网站安全狗  | https://www.safedog.cn/website_safedog.html  | 厦门安全狗提供  |
 
-**企业蜜罐**<br />
-| 名称 | 链接 | 介绍 | 最近更新 |
-| --- | --- | --- | --- |
-| hfish蜜罐 | https://hfish.net/ | 安全、可靠、简单、免费的企业级蜜罐 |   |
-| opencanary_web蜜罐 | https://github.com/p1r06u3/opencanary_web | 蜜罐网络管理平台 |  2021/02 |
-| Ehoney蜜罐 | https://github.com/seccome/Ehoney | 安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。 | 2022/11  |
-| Loki蜜罐 | https://github.com/TheKingOfDuck/Loki | 一个轻量级Web蜜罐 |  2022/01 |
-| DecoyMini蜜罐 | https://github.com/decoymini/DecoyMini | 一款高可扩展、安全、免费的企业级蜜罐系统 |  2023/09 |
-| tpotce蜜罐 | https://github.com/telekom-security/tpotce | T-Pot - The All In One Honeypot Platform | 2023/08  |
-| cowrie蜜罐 | https://github.com/cowrie/cowrie | Cowrie SSH/Telnet蜜罐 | 2023/09  |
+**HIDS主机入侵检测**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| 服务器安全狗  | https://www.safedog.cn/server_safedog.html  | 安全狗提供  |
+| 中小网站安全防护平台  | https://waf.islab.cn/#/home/websiteProtection  | 公安部第三研究所提供  |
+| Elkeid  | https://github.com/bytedance/Elkeid  | 字节跳动提供  |
 
-**钓鱼演练**<br />
-| 名称 | 链接 | 介绍 | 最近更新 |
-| --- | --- | --- | --- |
-|  | https://github.com/xiecat/goblin |  |   |
-|  | https://github.com/rsmusllp/king-phisher/ |  |   |
-|  | https://github.com/gophish/gophish |  |   |
-|  | https://github.com/SecurityPaper/mail_fishing |  |   |
-|  |  |  |   |
+**GitHhub代码泄露监测**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| Gshark  | https://github.com/madneal/gshark  | Madneal大牛提供  |
+| 腾讯安全泄露监测  | https://cloud.tencent.com/document/product/664/98516  | 腾讯安全提供  |
 
-挂马暗链、github监测、邮箱收集、
+**钓鱼邮件演练平台**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| Goblin  | https://github.com/xiecat/goblin  | Xiecat大牛提供  |
 
-https://github.com/gitleaks/gitleaks
-https://github.com/awslabs/git-secrets
+**蜜罐平台**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| Ehoney  | https://github.com/seccome/Ehoney  | Seccome大牛提供  |
+| Hfish  | https://hfish.net/  | 微步在线提供  |
+| DecoyMini  | https://github.com/decoymini/DecoyMini  | DecoyMini大牛提供  |
+
+**堡垒机平台**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| Jumpserver  | https://www.jumpserver.org/  | 杭州飞致云科技提供  |
+
+**DNS威胁情报检测平台**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| OneDNS  | https://www.onedns.net/publicWelfareVersion  | 北京微步在线提供  |
+
+**网络流量检测平台**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| FlowShadow  | https://abyssalfish-os.github.io/  | 北京深海鱼科技提供  |
+
+**漏洞靶场平台**
+| 项目名称 | 项目地址 | 项目介绍 |
+| --- | --- | --- |
+| Vulfocus  | https://fofapro.github.io/vulfocus/  | 北京华顺信安科技提供  |
+| Vulhub  | https://github.com/vulhub/vulhub  | Vulhub大牛提供  |
 
 
-| 护卫神·安全审计系统 | https://www.hws.com/soft/audit/ | Windows服务器一键安全加固软件，绿色、免费安全审计、补丁更新、安全加固（系统权限加固、禁用危险服务、卸载危险组件、PHP加固、功能角色加固、数据盘加固） |   |
-| lynis | https://github.com/CISOfy/lynis | Lynis -适用于Linux、macOS和基于UNIX的系统的安全审计工具。协助进行合规性测试（HIPAA/ISO27001/PCI DSS）和系统强化。无代理，安装可选。 |   |
+2024.02.29编辑完成
 
-**模板**<br />
-| 名称 | 链接 | 介绍 | 最近更新 |
-| --- | --- | --- | --- |
-|  |  |  |   |
-|  |  |  |   |
-|  |  |  |   |
-|  |  |  |   |
-|  |  |  |   |
+
+
+
+
+
