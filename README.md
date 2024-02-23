@@ -37,7 +37,7 @@
 **HIDS主机入侵检测**
 | 项目名称 | 项目地址 | 项目介绍 |
 | --- | --- | --- |
-| 服务器安全狗  | https://www.safedog.cn/server_safedog.html  | 安全狗提供  |
+| 服务器安全狗  | https://www.safedog.cn/server_safedog.html  | 厦门安全狗提供  |
 | 中小网站安全防护平台  | https://waf.islab.cn/#/home/websiteProtection  | 公安部第三研究所提供  |
 | Elkeid  | https://github.com/bytedance/Elkeid  | 字节跳动提供  |
 
